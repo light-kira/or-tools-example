@@ -7,7 +7,7 @@
 * Copy `or-tools_MacOsX-10.15.4_v7.6.7691/lib` folder to the root directory of your maven project.
 
 * In `pom.xml` add following dependencies :
-        `<dependency>
+        ```<dependency>
             <groupId>com.google.ortools</groupId>
             <artifactId>ortools</artifactId>
             <version>1</version>
@@ -20,7 +20,7 @@
             <version>1</version>
             <scope>system</scope>
             <systemPath>${basedir}/lib/protobuf.jar</systemPath>
-        </dependency>`
+        </dependency>)```
  
 * Create `Example.java` file having or-tools code.
 
