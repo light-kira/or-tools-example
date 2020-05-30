@@ -8,6 +8,7 @@
 
 * In `pom.xml` add following dependencies :
         ```xml
+        
         <dependency>
             <groupId>com.google.ortools</groupId>
             <artifactId>ortools</artifactId>
@@ -15,13 +16,14 @@
             <scope>system</scope>
             <systemPath>${basedir}/lib/com.google.ortools.jar</systemPath>
         </dependency>
+        
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf</artifactId>
             <version>1</version>
             <scope>system</scope>
             <systemPath>${basedir}/lib/protobuf.jar</systemPath>
-        </dependency>)```
+        </dependency>```
  
 * Create `Example.java` file having or-tools code.
 
