@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/google/ortools/constraintsolver/Solver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/linear/CPExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/linear/CryptArithematicPuzzle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/linear/EnvironmentUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/linear/GLOPLinearSolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/linear/LinearOptimization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/algorithms/java/knapsack_solver.i">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/base/threadpool.cc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/base/threadpool.h">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/com/google/ortools/constraintsolver/Assignment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/com/google/ortools/constraintsolver/BaseObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/com/google/ortools/constraintsolver/PropagationBaseObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/com/google/ortools/constraintsolver/Solver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/Assignment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/AssignmentElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/AssignmentIntContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/AssignmentIntervalContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/AssignmentSequenceContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/BaseIntExpr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/BaseLns.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/BaseObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/BasePathFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/BooleanVar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/CPFeasibilityFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/CastConstraint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/ChangeValue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/Constraint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/ConstraintSolverParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/ConstraintSolverParametersOrBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/Decision.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/DecisionBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/DecisionVisitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/DefaultPhaseParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/Demon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/DisjunctiveConstraint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/FirstSolutionStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/FirstSolutionStrategyOrBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/GlobalVehicleBreaksConstraint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntExpr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntTupleSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVarElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVarIterator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVarLocalSearchFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVarLocalSearchHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVarLocalSearchOperator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntVarLocalSearchOperatorTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntervalVar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/IntervalVarElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/LocalSearchFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/LocalSearchMetaheuristic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/LocalSearchMetaheuristicOrBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/LocalSearchMonitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/LocalSearchOperator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/LocalSearchPhaseParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/ModelCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/ModelVisitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/OptimizeVar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/Pack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/PathOperator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/PropagationBaseObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/PropagationMonitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RegularLimit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RegularLimitParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RegularLimitParametersOrBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RevBool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RevInteger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RevLong.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RevPartialSequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingDimension.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingEnums.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingIndexManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingModelParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingModelParametersOrBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingModelVisitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingSearchParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/RoutingSearchParametersOrBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SWIGTYPE_p_absl__Duration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SWIGTYPE_p_absl__flat_hash_setT_int_t.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SWIGTYPE_p_std__vectorT_absl__flat_hash_setT_int_t_t.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SWIGTYPE_p_std__vectorT_int_t.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SearchLimit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SearchLimitProtobuf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SearchLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SearchMonitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SequenceVar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SequenceVarElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SequenceVarLocalSearchHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SequenceVarLocalSearchOperator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SequenceVarLocalSearchOperatorTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SolutionCollector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SolutionPool.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/Solver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SolverParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/SymmetryBreaker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/TypeIncompatibilityChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/TypeRegulationsChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/TypeRegulationsConstraint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/TypeRequirementChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/mainConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/gen/java/com/google/ortools/constraintsolver/mainJNI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/java/com/google/ortools/constraintsolver/IntIntToLongFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/java/com/google/ortools/constraintsolver/LongTernaryOperator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/ortools/java/com/google/ortools/constraintsolver/LongTernaryPredicate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../or-tools/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/diana/src/main/java/com/ola/diana/algorithm/MinCostFlowMatchingAlgorithm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

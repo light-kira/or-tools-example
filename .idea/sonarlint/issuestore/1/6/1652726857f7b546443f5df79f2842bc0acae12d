@@ -1,0 +1,35 @@
+
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í§ÏÈ
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í§ÏÈ
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¼ë‚
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¼ë‚
+f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¼ë‚
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Û¹›
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ€íÙùÿÿÿÿ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É²øıÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èáŠşÿÿÿÿ
+l	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èáŠşÿÿÿÿ
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃüÀÀ
+f	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø©—
+f	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø©—
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¤œ<
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¤œ<
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¡Š‡üÿÿÿÿ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¡Š‡üÿÿÿÿ
+K
+java:S2065"0Remove the "transient" modifier from this field.(Ñí‹¦øÿÿÿÿ
+F
+java:S2065"0Remove the "transient" modifier from this field.(˜Û˜Š
+e
+java:S1874 "JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+H
+java:S1113 "-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+c	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àşÌ•
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¦Î
+d	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸†ğ
+d	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õûô´
+i	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë©Š«şÿÿÿÿ
+d	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şõı
+c	java:S100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’Êo
+d	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¤à
+d	java:S100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷à”ó
